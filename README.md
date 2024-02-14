@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">I'm a Computer Science and Economics student at Amherst College interested in ML, AI and Data Science, particularly in its applications in finance and trading.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liamjdavis" alt="liamjdavis" /></a> </p>
-
 - 🌱 I’m currently learning **advanced ML techniques and trading strategies.**
 
 - 👯 I’m looking to collaborate on **cool projects regarding ML and finance.**
