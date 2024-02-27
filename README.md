@@ -8,7 +8,7 @@
 
 - 📫 You can reach me at ljdavis27@amherst.edu.
 
-- 💬 Ask me about*the stock market, trading, anything really =).
+- 💬 Ask me about the stock market, sports, anything really =).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
