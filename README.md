@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
-<h3 align="center">I'm a Computer Science and Economics student at Amherst College interested in ML, AI and Data Science, particularly in its applications in finance and trading.</h3>
+<h3 align="center">Welcome to my GitHub Profile!</h3>
+- 🌱 I’m currently pursuing a Bachelors in Computer Science and Economics at Amherst College.
 
-- 🌱 I’m currently learning **advanced ML techniques and trading strategies.**
+- 💸 I am interested in ML and Data Science, particularly its applications in finance and trading.
 
-- 👯 I’m looking to collaborate on **cool projects regarding ML and finance.**
+- ⚾ I am also into Sports Analytics.
 
-- 👨‍💻 All of my projects are available at [github.com/liamjdavis](github.com/liamjdavis)
+- 📫 You can reach me at ljdavis27@amherst.edu.
 
-- 💬 Ask me about **the stock market, trading, anything really =).**
+- 💬 Ask me about*the stock market, trading, anything really =).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
