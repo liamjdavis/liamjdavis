@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">Welcome to my GitHub Profile!</h3>
+
 - 🌱 I’m currently pursuing a Bachelors in Computer Science and Economics at Amherst College.
 
 - 💸 I am interested in ML and Data Science, particularly its applications in finance and trading.
