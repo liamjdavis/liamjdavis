@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently pursuing a Bachelors in Computer Science and Mathematics at Amherst College.
 
-- 💸 I am interested in ML and Data Science, particularly its applications in finance and trading.
+- 💸 I am interested in ML and AI, particularly its applications in finance and trading.
 
 - ⚾ I am also into Sports Analytics.
 
