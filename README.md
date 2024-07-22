@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently pursuing a Bachelors in Computer Science and Mathematics at Amherst College.
 
-- 💸 I am interested in ML and AI, particularly its applications in finance and trading.
+- 💸 I am interested in the intersection between software engineering and quantitative research.
 
 - ⚾ I am also into Sports Analytics.
 
 - 📫 You can reach me at ljdavis27@amherst.edu.
 
-- 💬 Ask me about the stock market, sports, anything really =).
+- 💬 Ask me about the programming, trading, sports, anything really =).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
